@@ -1,0 +1,38 @@
+﻿@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+} 
+ 
+<h2>Calculations</h2> 
+ 
+<div ng-app="App" ng-controller="calculatorController" class="container"> 
+    <strong class="error">{{ error }}</strong>     
+    <p>List of Calculations</p>
+    <div class="row"> 
+        <div class="logs-table col-xs-12"> 
+            <table class="table table-bordered table-hover" style="width:100%"> 
+                <tr> 
+                    <th>Id</th> 
+                    <th>Operand</th> 
+                    <th>Operator1</th> 
+                    <th>Operator2</th> 
+                    <th>Result</th> 
+                </tr> 
+ 
+                <tr ng-repeat="calculation in calculations"> 
+                    <td>{{ calculation.Id }}</td> 
+                    <td>{{ calculation.Operand }}</td> 
+                    <td>{{ calculation.Operator1 }}</td> 
+                    <td>{{ calculation.Operator2 }}</td> 
+                    <td>{{ calculation.Result }}</td> 
+                </tr> 
+            </table> 
+        </div> 
+    </div> 
+
+    <div>
+        <textarea ng-model="calcExpression"></textarea> <br />
+        <a ng-href='#here' ng-click="calculateData()">Click to Calculate</a> <br />
+        Result: <label>{{ results }}</label>
+
+    </div>
+</div> 

@@ -1,0 +1,34 @@
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\CalculatorAPI.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\CalculatorAPI.pdb
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.SqlServer.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\Newtonsoft.Json.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Net.Http.Formatting.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.WebHost.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.SqlServer.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\Newtonsoft.Json.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Net.Http.Formatting.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.WebHost.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.pdb
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\CalculatorAPI.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\CalculatorAPI.pdb
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.SqlServer.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\Newtonsoft.Json.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Net.Http.Formatting.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.WebHost.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\EntityFramework.SqlServer.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\Newtonsoft.Json.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Net.Http.Formatting.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\bin\System.Web.Http.WebHost.xml
+C:\Git\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.csprojResolveAssemblyReference.cache
+C:\Git\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.dll
+C:\Git\CalculatorMVCApp\CalendarAPI\obj\Debug\CalculatorAPI.pdb

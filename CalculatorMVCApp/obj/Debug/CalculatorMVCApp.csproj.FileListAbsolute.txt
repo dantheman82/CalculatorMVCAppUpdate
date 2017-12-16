@@ -1,0 +1,106 @@
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\CalculatorMVCApp.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\CalculatorMVCApp.pdb
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Antlr3.Runtime.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.SqlServer.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Newtonsoft.Json.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Owin.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Helpers.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Mvc.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Optimization.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Razor.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Razor.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\WebGrease.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Antlr3.Runtime.pdb
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.SqlServer.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\Newtonsoft.Json.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Optimization.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Razor.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Razor.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Helpers.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Mvc.xml
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.dll
+c:\users\owner\documents\visual studio 2012\Projects\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.pdb
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\CalculatorMVCApp.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\CalculatorMVCApp.pdb
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Antlr3.Runtime.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Newtonsoft.Json.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Owin.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Helpers.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Optimization.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Razor.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\WebGrease.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Antlr3.Runtime.pdb
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\Newtonsoft.Json.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Optimization.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Razor.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\bin\System.Web.Helpers.xml
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.csprojResolveAssemblyReference.cache
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.dll
+C:\Git\CalculatorMVCApp\CalculatorMVCApp\obj\Debug\CalculatorMVCApp.pdb
